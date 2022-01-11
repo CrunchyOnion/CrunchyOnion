@@ -4,7 +4,7 @@ code .
 npm install discord.js@^12.5.3 ffmpeg fluent-ffmpeg @discordjs/opus ytdl-core --save
 {
 "prefix": "!",
-"token": "OTMwNDc5MTQ5MzU5OTc2NTU5.Yd2ePA.CgtoaSH8qG4SCJPEVSBgMdNckuQ"
+"token": "OTMwNDc5MTQ5MzU5OTc2NTU5.Yd2ePA.F5musGOs94kS5J8M1ueOOgeqYBc"
 }
 const Discord = require('discord.js');
 const {
